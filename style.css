@@ -1,0 +1,19 @@
+canvas
+{
+background-color:red;
+border-color:blue;
+box-shadow:5px 5px 5px green;
+
+}
+
+h1
+{
+width:100%;
+font-size:20px;
+margin:0px;
+}
+
+body
+{
+    background-size:cover;
+}
